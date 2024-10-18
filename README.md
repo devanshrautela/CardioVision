@@ -19,4 +19,6 @@ D. Rautela, M. Bajeli, A. Kumar and H. Vaidya, "Identifying Cardiovascular Disor
 
 **Keywords:** Support vector machines, Image analysis, Pipelines, Electrocardiography, Myocardium, Predictive models, Data models, Electrocardiogram (ECG), Cardiovascular diseases (CVD), Support Vector Machine, Voting-Based Classifier
 
+**Link :** https://ieeexplore.ieee.org/document/10533939
+
 If you use this code or dataset in your research, please cite our ICC ROBINS conference paper.
